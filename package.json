@@ -16,6 +16,10 @@
     "stopword": "^1.0.11",
     "vader-sentiment": "^1.1.3"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lazynpm/string-analysis"
+  },
   "keywords": [
     "http",
     "api",
