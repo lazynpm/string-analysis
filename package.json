@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Arpit",
+  "author": "Arpit Sharma",
   "license": "ISC",
   "dependencies": {
     "apos-to-lex-form": "^1.0.5",
@@ -15,5 +15,14 @@
     "spelling-corrector": "^3.0.0",
     "stopword": "^1.0.11",
     "vader-sentiment": "^1.1.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lazynpm/lazystring"
+  },
+  "keywords": [
+    "http",
+    "api",
+    "express"
+  ]
 }
