@@ -1,5 +1,5 @@
 {
-  "name": "lazystring",
+  "name": "string-analysis",
   "version": "1.0.0",
   "description": "",
   "main": "src/index.js",
@@ -15,10 +15,6 @@
     "spelling-corrector": "^3.0.0",
     "stopword": "^1.0.11",
     "vader-sentiment": "^1.1.3"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/lazynpm/lazystring"
   },
   "keywords": [
     "http",
